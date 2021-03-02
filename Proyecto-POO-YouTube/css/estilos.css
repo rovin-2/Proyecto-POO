@@ -1,0 +1,39 @@
+#boton-menu{
+    background-color: #ff7f5000;
+    width: 40px;
+    height: 40px;
+    border-color: #deb88700;
+}
+
+#boton-microfono {
+    background-color: #ff7f5000;
+    height: 40px;
+    border-color: #deb88700;
+    float: right;
+
+}
+#boton-notificaciones {
+    background-color: #ff7f5000;
+    width: 40px;
+    height: 40px;
+    border-color: #deb88700;
+    float: right;
+}
+#boton-imagenes {
+    background-color: #ff7f5000;
+    width: 40px;
+    height: 40px;
+    border-color: #deb88700;
+    float: right;
+}
+#buscar{
+    width: 350px;
+    margin-left: 10px;
+}
+
+.col-12{
+    margin-top: 20px;
+}
+.card {
+    border-color: #bf7154;;
+}
